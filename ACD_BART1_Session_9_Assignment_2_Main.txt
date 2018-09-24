@@ -1,0 +1,51 @@
+Session 9 – Statistical
+      Inference
+    Assignment - 2
+Contents
+
+  Introduction ..................................................................................................................................................... 2
+
+  Objective .......................................................................................................................................................... 2
+
+  Prerequisites .................................................................................................................................................... 2
+
+  Associated Data Files ....................................................................................................................................... 2
+
+  Problem Statement ......................................................................................................................................... 2
+
+  Expected Output .............................................................................................................................................. 2
+
+
+
+
+   Copyrights© 2017, AcadGild. All Rights Reserved                                                                                                                1
+   Introduction
+This assignment will help you to understand the key concepts learnt in this session.
+
+
+   Objective
+This assignment will test your skills on Theorems and Tests in R.
+
+
+   Prerequisites
+Not Applicable
+
+
+   Associated Data Files
+Not Applicable
+
+
+   Problem Statement
+1. Calculate the P Value for the test in Problem 2.
+2. How do you test the proportions and compare against hypothetical props? Test Hypothesis: proportion
+   of automatic cars is 40%.
+
+
+   Expected Output
+Not Applicable
+
+
+
+
+  Copyrights© 2017, AcadGild. All Rights Reserved                                                   2
+
